@@ -1,0 +1,12 @@
+.btn{
+    background-color: rgb(240, 228, 228);
+    color: rgb(102, 73, 182);
+    border-radius: 5px;
+}
+.cell{
+    padding: 10px;
+    margin: 10px;
+}
+.row{
+    border-bottom: steelblue solid 1px;
+}

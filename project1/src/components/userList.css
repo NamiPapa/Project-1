@@ -1,0 +1,37 @@
+.table{
+    margin:10px;
+    padding: 10px;
+    border-collapse: collapse;
+}
+.table th{
+   margin: 10px;
+   padding: 10px;
+   border-bottom: solid 1px black;
+}
+.searchcontainer{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding:10px;
+}
+.maincontainer{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+.roll{
+    background:skyblue;
+    color: white;
+    border-radius: 5px;
+    margin: 8px;
+}
+.create{
+    padding: 6px;
+    margin: 2px;
+}
+.headline{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}

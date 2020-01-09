@@ -1,0 +1,41 @@
+.userformContainer{
+    padding: 10px;
+    margin: 5px;
+    display: flex;
+    flex-direction: row;
+}
+
+.userForm {
+    margin: auto
+}
+
+.userinput{
+    outline-style: none;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 4px 5px;
+    width:150px;
+}
+.userbutton{
+    padding: 7px;
+    margin: 7px;
+    background: grey;
+    color: white;
+    border-radius: 5px;
+}
+.userbutton:disabled{
+    background: #dddddd;
+}
+.buttoncontainer{
+    display: flex;
+    justify-content: space-between;
+}
+.alertcontainer{
+    height: 60%;
+    margin: 5px;
+    padding: 5px;
+    background: navajowhite;
+    color: red;
+    border-radius: 5px;
+    font-size: 5px;
+}
